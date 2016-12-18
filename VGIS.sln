@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{CF07370D-2444-48E8-9602-7BF6ED3B389F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{E792A5A7-D8D6-4785-B5A8-3D3402577C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{6CDAC1F5-BF9D-4E18-8BBF-82477AE90B42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_VGIS", "MVC_VGIS\MVC_VGIS.csproj", "{70874CF3-C4FC-4832-879B-34E4F727F296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF07370D-2444-48E8-9602-7BF6ED3B389F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF07370D-2444-48E8-9602-7BF6ED3B389F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF07370D-2444-48E8-9602-7BF6ED3B389F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF07370D-2444-48E8-9602-7BF6ED3B389F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E792A5A7-D8D6-4785-B5A8-3D3402577C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E792A5A7-D8D6-4785-B5A8-3D3402577C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E792A5A7-D8D6-4785-B5A8-3D3402577C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E792A5A7-D8D6-4785-B5A8-3D3402577C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CDAC1F5-BF9D-4E18-8BBF-82477AE90B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDAC1F5-BF9D-4E18-8BBF-82477AE90B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDAC1F5-BF9D-4E18-8BBF-82477AE90B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDAC1F5-BF9D-4E18-8BBF-82477AE90B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70874CF3-C4FC-4832-879B-34E4F727F296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70874CF3-C4FC-4832-879B-34E4F727F296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70874CF3-C4FC-4832-879B-34E4F727F296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70874CF3-C4FC-4832-879B-34E4F727F296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
